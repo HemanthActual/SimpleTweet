@@ -13,6 +13,7 @@ The following **required** functionality is completed:
 - [x] User is displayed the username, name, and body for each tweet
 - [x] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
 - [x] User can refresh tweets timeline by pulling down to refresh
+-
 Part 2:
 - [x] User can **compose and post a new tweet**
 - [x] User can click a “Compose” icon in the Action Bar on the top right
@@ -37,6 +38,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/HemanthActual/SimpleTweet/blob/main/SimpleTweetGIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Part 2:
+
 <img src='https://github.com/HemanthActual/SimpleTweet/blob/main/SimpleTweetPT2GIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
